@@ -1,0 +1,29 @@
+/* Full-bleed "first line" hero (see hero-sweep.js). Loaded after style.css. */
+.hero { background: var(--olive-950) var(--tex-wall-deep) 0 0 / 512px; }
+.sweep-art { position: absolute; inset: 0; z-index: 0; }
+.sweep-art canvas, .sweep-art img { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+.sweep-art img { object-fit: cover; object-position: 58% 50%; opacity: 0; transition: opacity .8s ease; }
+.sweep-art[data-mode=still] img { opacity: 1; }
+.sweep-art[data-mode=still] canvas { display: none; }
+.sweep-art img:not([src]) { display: none; }
+
+/* Dark scrim so the copy reads over the finished (light) room. Over the
+   microcement stages it is near-invisible: it matches the paper. */
+.sweep-scrim {
+  position: absolute; inset: 0; z-index: 1; pointer-events: none;
+  background:
+    linear-gradient(90deg, rgba(22,24,15,.95) 0%, rgba(22,24,15,.88) 22%, rgba(22,24,15,.58) 37%, rgba(22,24,15,.14) 55%, rgba(22,24,15,0) 68%),
+    linear-gradient(180deg, rgba(22,24,15,.55) 0%, rgba(22,24,15,0) 16%),
+    linear-gradient(0deg, rgba(30,32,21,.6) 0%, rgba(30,32,21,0) 14%);
+}
+
+/* Phones: the artwork fills the screen behind the copy. An emerald-olive veil
+   keeps the text readable, deepest at the bottom where the copy sits. */
+@media (max-width: 700px) {
+  .sweep-art img { object-position: 58% 50%; }
+  .sweep-scrim {
+    background:
+      linear-gradient(180deg, rgba(14,28,20,.62) 0%, rgba(14,28,20,.18) 16%, rgba(14,28,20,.24) 40%, rgba(12,24,17,.80) 66%, rgba(10,20,14,.93) 100%),
+      linear-gradient(rgba(24,48,32,.20), rgba(24,48,32,.20));
+  }
+}

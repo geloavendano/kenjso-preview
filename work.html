@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Projects — Kenj So</title>
+<meta name="page-title" content="Projects — Kenj So">
+<meta name="description" content="Homes, model units and commercial spaces by licensed interior designer Kenj So.">
+<meta name="theme-color" content="#1e2015">
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="portfolio-page">
+<a class="skip" href="#portfolio-grid">Skip to projects</a>
+
+<nav class="float-nav" id="float-nav" aria-label="Main navigation">
+  <span class="nav-indicator" aria-hidden="true"></span>
+  <a href="./work.html" aria-current="page">Work</a>
+  <a href="./index.html#about">About</a>
+  <a href="./index.html#connect">Contact</a>
+</nav>
+
+<main class="portfolio">
+  <header class="portfolio-head">
+    <a class="back-home text-link" href="./index.html">Kenj So</a>
+    <h1>Projects</h1>
+    <div class="portfolio-bar">
+      <div class="filters filters-row" role="group" aria-label="Project category">
+        <button data-filter="all" aria-pressed="true">All</button>
+        <button data-filter="residential" aria-pressed="false">Residential</button>
+        <button data-filter="commercial" aria-pressed="false">Commercial</button>
+      </div>
+      <p class="count" id="count" aria-live="polite"></p>
+    </div>
+  </header>
+  <div id="portfolio-grid" class="portfolio-grid"></div>
+</main>
+
+<footer class="travertine"><span>Kenj So — Interior Design</span><span>© 2026</span></footer>
+
+<script type="module" src="work.js"></script>
+</body></html>

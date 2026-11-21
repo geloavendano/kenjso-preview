@@ -1,0 +1,8 @@
+# First draft's 3D hero (superseded by hero-sweep.js); kept locally, not published
+hero.js
+hero-motion.js
+vendor/
+assets/barkhaus-geometry.*
+assets/room-*.jpg
+assets/rooms.json
+.DS_Store
