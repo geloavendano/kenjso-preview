@@ -151,8 +151,8 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .project-grid [hidden] { display: none; }
 
 /* ---- About + Contact ------------------------------------------------------- */
-/* On travertine: ink text, bronze accents, and the sketches drawn in pencil-bronze. */
-.about { --sketch-ink: rgba(92, 70, 46, .42); --rule-dark: rgba(34, 36, 26, .18); position: relative; overflow: hidden; padding: 130px 10% 130px; display: grid; grid-template-columns: 1.05fr .75fr; gap: 10%; align-items: center; isolation: isolate; }
+/* On travertine: ink text, bronze accents, and the sketches drawn in cognac. */
+.about { --sketch-ink: rgba(168, 96, 48, .5); --rule-dark: rgba(34, 36, 26, .18); position: relative; overflow: hidden; padding: 130px 10% 130px; display: grid; grid-template-columns: 1.05fr .75fr; gap: 10%; align-items: center; isolation: isolate; }
 .sketch-canvas { position: absolute; inset: 0; width: 100%; height: 100%; z-index: -1; pointer-events: none; }
 .about-copy { position: relative; }
 .about h2 { font-family: var(--serif); font-weight: 400; font-size: clamp(38px, 3.8vw, 60px); margin: 0 0 34px; line-height: 1.12; }
@@ -209,10 +209,11 @@ dialog::backdrop { background: rgba(14, 15, 9, .82); -webkit-backdrop-filter: bl
   .section-top { margin: 0 0 28px; flex-direction: column; gap: 14px; }
   .lede { font-size: 20px; text-align: left; }
   .project-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
-  .project-index { grid-column: 1; grid-row: 1; aspect-ratio: 1 / 1.06; min-height: 0; overflow: hidden; padding: 12px 11%; }
-  .project-index h2 { font-size: 25px; margin-bottom: 8px; }
-  .project-index .filters { gap: 0; }
-  .project-index .filters button { padding: 4px 0; }
+  /* Same footprint as a photo card: compact heading, filters run inline and wrap. */
+  .project-index { grid-column: 1; grid-row: 1; aspect-ratio: 1 / 1.06; min-height: 0; overflow: hidden; padding: 14px 10%; justify-content: center; }
+  .project-index h2 { font-size: 26px; margin-bottom: 10px; }
+  .project-index .filters { flex-direction: row; flex-wrap: wrap; gap: 2px 14px; }
+  .project-index .filters button { padding: 3px 0; font-size: 14px; }
   .filters button { font-size: 14px; }
   .project-caption { padding: 30px 12px 13px; }
   .project-caption strong { font-size: 16px; }

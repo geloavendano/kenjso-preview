@@ -85,7 +85,7 @@ export async function initSketches(section) {
   const canvas = document.createElement('canvas');
   canvas.className = 'sketch-canvas'; canvas.setAttribute('aria-hidden', 'true');
   section.prepend(canvas);
-  const plan = await fetch('./assets/sketch/barkhaus-plan.json').then(r => r.json());
+  const plan = await fetch('./assets/sketch/barkhaus-plan.json?v=5df6c2f0a6').then(r => r.json());
   const ctx = canvas.getContext('2d');
   const ink = getComputedStyle(section).getPropertyValue('--sketch-ink').trim() || INK;
   let w, h, dpr, sheets = [], variant = 0, visible = false, last = 0, raf = 0;

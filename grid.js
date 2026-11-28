@@ -1,5 +1,5 @@
 // Project tiles + animated filtering, shared by the home page and the portfolio.
-import { projectHash, label, facts } from './projects.js';
+import { projectHash, label, facts } from './projects.js?v=05f2a50810';
 
 const reduced = matchMedia('(prefers-reduced-motion: reduce)');
 const EASE = 'cubic-bezier(.2,.7,.2,1)';

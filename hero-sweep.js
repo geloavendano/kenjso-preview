@@ -233,7 +233,7 @@ async function load(src) {
 const showStill = () => { art.dataset.mode = 'still'; };
 
 async function start() {
-  const manifest = await fetch('./assets/hero/hero.json').then(r => r.json());
+  const manifest = await fetch('./assets/hero/hero.json?v=cef88e12b7').then(r => r.json());
   still.src = manifest.finished;
   if (reduced.matches) return showStill();
 
