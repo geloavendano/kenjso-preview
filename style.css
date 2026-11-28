@@ -159,13 +159,17 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .about .eyebrow { color: var(--bronze); }
 .about-copy > p:not(.eyebrow) { max-width: 520px; font-size: 18px; line-height: 1.75; color: #3a3a2c; letter-spacing: .01em; font-weight: 400; }
 .about .text-link:hover { color: var(--cognac-deep); }
-.contact { border-top: 1px solid var(--rule-dark); margin-top: 52px; padding-top: 34px; scroll-margin-top: 120px; }
-.contact .eyebrow { margin-bottom: 14px; }
-.email { display: inline-block; font-family: var(--serif); font-size: clamp(26px, 2.6vw, 38px); background: linear-gradient(var(--cognac), var(--cognac)) 0 100% / 0 1px no-repeat; transition: background-size .5s var(--ease-out), color .3s; }
-.email:hover { background-size: 100% 1px; color: var(--cognac-deep); }
-.phone { display: block; margin-top: 12px; font-size: 17px; letter-spacing: .04em; color: #5a4a34; }
-.socials { display: flex; gap: 28px; font-size: 15px; letter-spacing: var(--sans-track); margin-top: 26px; color: #5a4a34; }
-.socials a:hover, .phone:hover { color: var(--cognac-deep); }
+/* Contact sits on a cognac leather card, so the sketches behind never cross the details. */
+.contact {
+  position: relative; margin-top: 56px; padding: 38px 42px 36px; max-width: 560px; border-radius: 3px; scroll-margin-top: 120px;
+  box-shadow: inset 0 0 0 1px rgba(255, 225, 190, .14), inset 0 1px 0 rgba(255, 235, 210, .12), 0 30px 60px -34px rgba(60, 30, 10, .65);
+}
+.about .contact .eyebrow { margin-bottom: 14px; color: rgba(245, 226, 200, .78); }
+.email { display: inline-block; font-family: var(--serif); font-size: clamp(26px, 2.6vw, 38px); color: #fbf1e2; background: linear-gradient(currentColor, currentColor) 0 100% / 0 1px no-repeat; transition: background-size .5s var(--ease-out), color .3s; overflow-wrap: anywhere; }
+.email:hover { background-size: 100% 1px; color: #fff8ee; }
+.phone { display: block; margin-top: 12px; font-size: 17px; letter-spacing: .04em; color: rgba(250, 236, 216, .88); }
+.socials { display: flex; gap: 28px; font-size: 15px; letter-spacing: var(--sans-track); margin-top: 26px; padding-top: 20px; border-top: 1px solid rgba(255, 230, 200, .22); color: rgba(250, 236, 216, .88); }
+.socials a:hover, .phone:hover { color: #fff8ee; }
 .portrait { margin: 0; justify-self: end; width: 100%; max-width: 440px; position: relative; }
 .portrait img { display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: 50% 18%; border-radius: 2px; filter: saturate(.62) sepia(.12); box-shadow: 0 40px 70px -38px rgba(40, 30, 16, .55), 0 0 0 1px rgba(34, 36, 26, .08); background: var(--olive-800); }
 .portrait figcaption { position: static; margin-top: 16px; font-size: 16px; letter-spacing: .06em; color: #4e4030; }   /* mixed case: the title is "IDr." */
@@ -223,7 +227,8 @@ dialog::backdrop { background: rgba(14, 15, 9, .82); -webkit-backdrop-filter: bl
   .about h2 { font-size: 40px; }
   .about-copy > p:not(.eyebrow) { font-size: 17px; }
   .portrait { justify-self: center; max-width: 360px; }
-  .email { font-size: 30px; }
+  .email { font-size: 26px; }
+  .contact { padding: 30px 26px 28px; margin-top: 44px; }
   footer { flex-direction: column; gap: 8px; padding: 26px 8%; font-size: 11px; }
   .dialog-content { padding: 44px 24px; }
   .dialog-content h2 { font-size: 30px; }
