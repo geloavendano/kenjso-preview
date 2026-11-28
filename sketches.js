@@ -8,7 +8,7 @@
 // finished it rests, fades, and is redrawn from a different part of the plan.
 
 const reduced = matchMedia('(prefers-reduced-motion: reduce)');
-const INK = 'rgba(226, 213, 188, 0.40)';
+const INK = 'rgba(226, 213, 188, 0.40)';   // fallback; a section can set --sketch-ink
 // Each sheet takes about this long to draw, however much is on it.
 // Review aid: ?fastsketch draws a whole sheet almost instantly.
 const DRAW_SECONDS = new URLSearchParams(location.search).has('fastsketch') ? 0.4 : 18;
@@ -87,6 +87,7 @@ export async function initSketches(section) {
   section.prepend(canvas);
   const plan = await fetch('./assets/sketch/barkhaus-plan.json').then(r => r.json());
   const ctx = canvas.getContext('2d');
+  const ink = getComputedStyle(section).getPropertyValue('--sketch-ink').trim() || INK;
   let w, h, dpr, sheets = [], variant = 0, visible = false, last = 0, raf = 0;
 
   const setup = () => {
@@ -105,7 +106,7 @@ export async function initSketches(section) {
     const [[ax, ay], angle, half] = sheet.clip;
     ctx.translate(ax, ay); ctx.rotate(angle); ctx.beginPath(); ctx.rect(-half, -half * .82, half * 2, half * 1.64); ctx.rotate(-angle); ctx.translate(-ax, -ay);
     ctx.clip();
-    ctx.strokeStyle = INK; ctx.lineCap = 'round'; ctx.lineJoin = 'round';
+    ctx.strokeStyle = ink; ctx.lineCap = 'round'; ctx.lineJoin = 'round';
     let at = 0;
     for (const st of sheet.strokes) {
       const passes = st.twice ? 2 : 1;

@@ -26,6 +26,7 @@
   --tex-wall-deep: url(assets/textures/microcement-olive-deep.webp);
   --tex-leather: url(assets/textures/leather-cognac.webp);
   --tex-stone: url(assets/textures/travertine.webp);
+  --tex-limewash: url(assets/textures/limewash-olive.webp);
 
   --ease-out: cubic-bezier(.2, .7, .2, 1);
 
@@ -45,6 +46,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 
 .leather { background: var(--cognac-deep) var(--tex-leather) 0 0 / 512px; color: var(--cream); }
 .travertine { background: var(--travertine) var(--tex-stone) 0 0 / 640px; color: var(--ink); }
+.limewash { background: var(--olive-700) var(--tex-limewash) 0 0 / 640px; color: var(--cream); }
 
 .eyebrow {
   font-family: var(--sans); font-size: 12px; line-height: 1.6;
@@ -99,14 +101,14 @@ button, a { -webkit-tap-highlight-color: transparent; }
   line-height: 1.02; letter-spacing: -.045em; margin: 0 0 20px; color: var(--cream);
 }
 .discipline { font-size: 15px; letter-spacing: .34em; text-transform: uppercase; margin: 0 0 40px; color: var(--travertine); }
-.intro { font-family: var(--serif); font-size: 23px; line-height: 1.55; color: #d9c7a6; margin: 0; }
+.intro { font-family: var(--serif); font-size: 23px; line-height: 1.55; color: #d9c7a6; margin: 0; max-width: 22em; }
 .hero-links { display: flex; gap: 26px; align-items: center; margin-top: 34px; flex-wrap: wrap; }
 
 /* ---- Work --------------------------------------------------------------- */
 .work { background: var(--olive-800) var(--tex-wall) 0 0 / 512px; padding: 110px 3% 95px; }
 .section-top { display: flex; align-items: start; justify-content: space-between; margin: 0 2% 48px; }
 .section-top .eyebrow { margin: 0; }
-.lede { font-family: var(--serif); font-size: 23px; line-height: 1.5; margin: 0; text-align: right; color: #d9c7a6; }
+.lede { font-family: var(--serif); font-size: 23px; line-height: 1.5; margin: 0; text-align: right; color: #d9c7a6; max-width: 15em; }
 
 .project-grid { position: relative; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 18px; }
 .project-index {
@@ -149,21 +151,24 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .project-grid [hidden] { display: none; }
 
 /* ---- About + Contact ------------------------------------------------------- */
-.about { position: relative; overflow: hidden; padding: 130px 10% 130px; display: grid; grid-template-columns: 1.05fr .75fr; gap: 10%; align-items: center; isolation: isolate; }
+/* On travertine: ink text, bronze accents, and the sketches drawn in pencil-bronze. */
+.about { --sketch-ink: rgba(92, 70, 46, .42); --rule-dark: rgba(34, 36, 26, .18); position: relative; overflow: hidden; padding: 130px 10% 130px; display: grid; grid-template-columns: 1.05fr .75fr; gap: 10%; align-items: center; isolation: isolate; }
 .sketch-canvas { position: absolute; inset: 0; width: 100%; height: 100%; z-index: -1; pointer-events: none; }
 .about-copy { position: relative; }
 .about h2 { font-family: var(--serif); font-weight: 400; font-size: clamp(38px, 3.8vw, 60px); margin: 0 0 34px; line-height: 1.12; }
-.about-copy > p:not(.eyebrow) { max-width: 520px; font-size: 18px; line-height: 1.75; color: #ddd4c2; letter-spacing: .01em; font-weight: 300; }
-.contact { border-top: 1px solid var(--rule); margin-top: 52px; padding-top: 34px; scroll-margin-top: 120px; }
+.about .eyebrow { color: var(--bronze); }
+.about-copy > p:not(.eyebrow) { max-width: 520px; font-size: 18px; line-height: 1.75; color: #3a3a2c; letter-spacing: .01em; font-weight: 400; }
+.about .text-link:hover { color: var(--cognac-deep); }
+.contact { border-top: 1px solid var(--rule-dark); margin-top: 52px; padding-top: 34px; scroll-margin-top: 120px; }
 .contact .eyebrow { margin-bottom: 14px; }
 .email { display: inline-block; font-family: var(--serif); font-size: clamp(26px, 2.6vw, 38px); background: linear-gradient(var(--cognac), var(--cognac)) 0 100% / 0 1px no-repeat; transition: background-size .5s var(--ease-out), color .3s; }
-.email:hover { background-size: 100% 1px; color: #e2b48b; }
-.phone { display: block; margin-top: 12px; font-size: 17px; letter-spacing: .04em; color: var(--travertine); }
-.socials { display: flex; gap: 28px; font-size: 15px; letter-spacing: var(--sans-track); margin-top: 26px; color: var(--travertine); }
-.socials a:hover, .phone:hover { color: var(--cream); }
+.email:hover { background-size: 100% 1px; color: var(--cognac-deep); }
+.phone { display: block; margin-top: 12px; font-size: 17px; letter-spacing: .04em; color: #5a4a34; }
+.socials { display: flex; gap: 28px; font-size: 15px; letter-spacing: var(--sans-track); margin-top: 26px; color: #5a4a34; }
+.socials a:hover, .phone:hover { color: var(--cognac-deep); }
 .portrait { margin: 0; justify-self: end; width: 100%; max-width: 440px; position: relative; }
-.portrait img { display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: 50% 18%; border-radius: 2px; filter: saturate(.62) sepia(.12); box-shadow: 0 40px 80px -40px rgba(0, 0, 0, .85), 0 0 0 1px rgba(238, 230, 214, .08); background: var(--olive-800); }
-.portrait figcaption { position: static; margin-top: 16px; font-size: 13px; letter-spacing: .22em; text-transform: uppercase; color: var(--travertine); }
+.portrait img { display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: 50% 18%; border-radius: 2px; filter: saturate(.62) sepia(.12); box-shadow: 0 40px 70px -38px rgba(40, 30, 16, .55), 0 0 0 1px rgba(34, 36, 26, .08); background: var(--olive-800); }
+.portrait figcaption { position: static; margin-top: 16px; font-size: 16px; letter-spacing: .06em; color: #4e4030; }   /* mixed case: the title is "IDr." */
 
 footer { padding: 30px 5%; display: flex; justify-content: space-between; gap: 30px; font-size: 13px; letter-spacing: .14em; text-transform: uppercase; }
 
@@ -204,8 +209,10 @@ dialog::backdrop { background: rgba(14, 15, 9, .82); -webkit-backdrop-filter: bl
   .section-top { margin: 0 0 28px; flex-direction: column; gap: 14px; }
   .lede { font-size: 20px; text-align: left; }
   .project-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
-  .project-index { grid-column: 1; grid-row: 1; min-height: 220px; padding: 16px 9%; }
-  .project-index h2 { font-size: 30px; margin-bottom: 14px; }
+  .project-index { grid-column: 1; grid-row: 1; aspect-ratio: 1 / 1.06; min-height: 0; overflow: hidden; padding: 12px 11%; }
+  .project-index h2 { font-size: 25px; margin-bottom: 8px; }
+  .project-index .filters { gap: 0; }
+  .project-index .filters button { padding: 4px 0; }
   .filters button { font-size: 14px; }
   .project-caption { padding: 30px 12px 13px; }
   .project-caption strong { font-size: 16px; }
