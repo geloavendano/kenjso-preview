@@ -2,6 +2,7 @@
 // you are on, driven by the URL hash (#project/<slug>), so every project has a
 // shareable link, the back button closes it, and links between projects work.
 import { loadProjects, projectHash, slugFromHash, label, facts } from './projects.js?v=e153df9cbd';
+import { openLightbox } from './lightbox.js?v=724087b96f';
 
 const reduced = matchMedia('(prefers-reduced-motion: reduce)');
 let view, scroller, lastFocus = null, current = null;
@@ -33,8 +34,16 @@ function render(p, listed) {
   const [hero, ...rest] = p.images;
   const position = i >= 0 ? `${String(i + 1).padStart(2, '0')} / ${listed.length} · ` : '';
 
+  // Every photo opens the full-screen viewer at that photo.
+  const openAt = (k, from) => openLightbox(p.images, k, { title: p.title, returnFocus: from });
+  const isVideo = src => /\.(mp4|webm|mov)(\?|$)/i.test(src);
+  const media = (src, alt, lazy) => isVideo(src)
+    ? el('video', { src, muted: true, loop: true, autoplay: true, playsInline: true, preload: 'metadata' })
+    : el('img', { src, alt, decoding: 'async', ...(lazy ? { loading: 'lazy' } : {}) });
+
   const head = el('header', { className: 'pv-hero' + (hero ? '' : ' is-placeholder') },
-    hero ? el('img', { src: hero, alt: `${p.title} — main view`, decoding: 'async' }) : null,
+    hero ? media(hero, `${p.title} — main view`, false) : null,
+    hero ? el('button', { className: 'pv-hero-open', type: 'button', textContent: `View all ${p.images.length} photos`, onclick: e => openAt(0, e.currentTarget) }) : null,
     el('div', { className: 'pv-hero-copy' },
       el('p', { className: 'eyebrow', textContent: position + label(p) }),
       el('h1', { id: 'pv-title', textContent: p.title }),
@@ -49,7 +58,8 @@ function render(p, listed) {
   // Gallery rhythm: one wide image, then a pair, repeating.
   const gallery = el('section', { className: 'pv-gallery' },
     ...rest.map((src, k) => el('figure', { className: k % 3 === 0 ? 'wide' : '' },
-      el('img', { src, alt: `${p.title} — view ${k + 2}`, loading: 'lazy', decoding: 'async' }))));
+      el('button', { className: 'pv-media', type: 'button', ariaLabel: `Open photo ${k + 2} of ${p.images.length}`, onclick: e => openAt(k + 1, e.currentTarget) },
+        media(src, `${p.title} — view ${k + 2}`, true)))));
 
   const foot = el('footer', { className: 'pv-next' },
     el('a', { className: 'pv-all text-link', href: './work.html', textContent: 'All projects' }),
@@ -57,10 +67,13 @@ function render(p, listed) {
       el('span', { className: 'eyebrow', textContent: 'Next project' }),
       el('strong', { textContent: next.title })));
 
+  // The cover photo itself opens the viewer too (anywhere but its button).
+  if (hero) head.addEventListener('click', e => { if (!e.target.closest('button, a')) openAt(0, head.querySelector('.pv-hero-open')); });
   scroller.replaceChildren(head, story, gallery, foot);
 }
 
 async function show(slug) {
+  if (view && !view.hidden && slug === current) return;   // e.g. Back just closed the photo viewer
   const { projects } = await loadProjects();
   const p = projects.find(x => x.slug === slug);
   if (!p) return closeProject();
