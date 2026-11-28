@@ -1,7 +1,7 @@
 // Full-screen project view. Not a separate page: it opens over whichever page
 // you are on, driven by the URL hash (#project/<slug>), so every project has a
 // shareable link, the back button closes it, and links between projects work.
-import { loadProjects, projectHash, slugFromHash, label, facts } from './projects.js?v=74ffd9d598';
+import { loadProjects, projectHash, slugFromHash, label, facts } from './projects.js?v=e153df9cbd';
 
 const reduced = matchMedia('(prefers-reduced-motion: reduce)');
 let view, scroller, lastFocus = null, current = null;

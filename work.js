@@ -1,7 +1,7 @@
 // Portfolio page: every project, tiled.
-import { loadProjects } from './projects.js?v=74ffd9d598';
-import { projectCard, bindFilters } from './grid.js?v=e44f81ca79';
-import { initProjectView } from './project-view.js?v=a917276c95';
+import { loadProjects } from './projects.js?v=e153df9cbd';
+import { projectCard, bindFilters } from './grid.js?v=6baad50bf5';
+import { initProjectView } from './project-view.js?v=90aa4cfb55';
 import { initNav } from './nav.js?v=b1556581c0';
 
 const grid = document.querySelector('#portfolio-grid');
