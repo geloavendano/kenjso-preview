@@ -304,3 +304,14 @@ html.pv-open, html.pv-open body { overflow: hidden; }
   .pv-next { flex-direction: column-reverse; align-items: start; padding: 70px 7%; margin-top: 50px; }
   .pv-next-link { text-align: left; }
 }
+
+/* Projects without photos yet */
+.project-card.is-placeholder { background: var(--olive-700) var(--tex-limewash) 0 0 / 640px; }
+.card-placeholder {
+  position: absolute; inset: 0; display: grid; place-items: center; padding-bottom: 30%;
+  font-size: 12px; letter-spacing: .24em; text-transform: uppercase; color: rgba(238, 230, 214, .42);
+  background: repeating-linear-gradient(135deg, transparent 0 22px, rgba(238, 230, 214, .035) 22px 23px);
+}
+.pv-hero.is-placeholder { height: 62svh; min-height: 420px; background: var(--olive-700) var(--tex-limewash) 0 0 / 640px; }
+.pv-story.is-placeholder .pv-body p { color: var(--muted); font-style: italic; }
+.pv-story.is-placeholder .pv-body p:first-child::first-letter { float: none; font: inherit; padding: 0; color: inherit; }

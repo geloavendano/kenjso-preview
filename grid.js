@@ -1,5 +1,5 @@
 // Project tiles + animated filtering, shared by the home page and the portfolio.
-import { projectHash, label, facts } from './projects.js?v=05f2a50810';
+import { projectHash, label, facts } from './projects.js?v=74ffd9d598';
 
 const reduced = matchMedia('(prefers-reduced-motion: reduce)');
 const EASE = 'cubic-bezier(.2,.7,.2,1)';
@@ -7,7 +7,11 @@ const EASE = 'cubic-bezier(.2,.7,.2,1)';
 export function projectCard(p, { showSize = false } = {}) {
   const a = Object.assign(document.createElement('a'), { className: 'project-card', href: projectHash(p.slug) });
   a.dataset.category = p.category;
-  const img = Object.assign(new Image(), { src: p.cover, alt: `${p.title}, interior by Kenj So`, loading: 'lazy', decoding: 'async' });
+  // Projects without photos yet get a limewash panel instead of an image.
+  const img = p.cover
+    ? Object.assign(new Image(), { src: p.cover, alt: `${p.title}, interior by Kenj So`, loading: 'lazy', decoding: 'async' })
+    : Object.assign(document.createElement('span'), { className: 'card-placeholder', textContent: 'Photos to follow' });
+  if (!p.cover) a.classList.add('is-placeholder');
   const caption = Object.assign(document.createElement('span'), { className: 'project-caption' });
   caption.append(Object.assign(document.createElement('strong'), { textContent: p.title }),
                  Object.assign(document.createElement('span'), { textContent: (showSize ? facts(p) : [label(p)]).join(' · ') }));

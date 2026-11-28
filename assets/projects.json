@@ -25,7 +25,8 @@
     "https://static.wixstatic.com/media/a54808_d31f23573384425ebec321bc39aab928~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_d31f23573384425ebec321bc39aab928~mv2.jpg",
     "https://static.wixstatic.com/media/a54808_5a1669b343de40caa792c8eefa69e6ab~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_5a1669b343de40caa792c8eefa69e6ab~mv2.jpg"
    ],
-   "featured": true
+   "featured": true,
+   "listed": true
   },
   {
    "slug": "bachelors-pad-in-the-sky",
@@ -61,7 +62,8 @@
     "https://static.wixstatic.com/media/a54808_667b2b5c50744dbfa12d56b331bd0347~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_667b2b5c50744dbfa12d56b331bd0347~mv2.jpg",
     "https://static.wixstatic.com/media/a54808_fb8e90fa391f497eb5aa77128744f697~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_fb8e90fa391f497eb5aa77128744f697~mv2.jpg"
    ],
-   "featured": true
+   "featured": true,
+   "listed": true
   },
   {
    "slug": "pastry-corner-express",
@@ -83,7 +85,8 @@
     "https://static.wixstatic.com/media/a54808_61776b82f5c04c999b408916745f9fe0~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_61776b82f5c04c999b408916745f9fe0~mv2.png",
     "https://static.wixstatic.com/media/a54808_d2f52e812e9f45dc81c09556cfb43455~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_d2f52e812e9f45dc81c09556cfb43455~mv2.png"
    ],
-   "featured": true
+   "featured": true,
+   "listed": true
   },
   {
    "slug": "modern-industrial-loft",
@@ -119,229 +122,38 @@
     "https://static.wixstatic.com/media/a54808_8b5969e645ef499ea2059a6d8e40a0dc~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_8b5969e645ef499ea2059a6d8e40a0dc~mv2.jpg",
     "https://static.wixstatic.com/media/a54808_e08a6abab53546489b23b9a4d5397214~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_e08a6abab53546489b23b9a4d5397214~mv2.jpg"
    ],
-   "featured": true
+   "featured": true,
+   "listed": true
   },
   {
-   "slug": "luxury-penthouse",
-   "title": "Luxury Penthouse",
+   "slug": "office-conversion",
+   "title": "Office Conversion",
    "category": "residential",
-   "size": null,
-   "tagline": null,
+   "size": 291,
+   "tagline": "A 291-sqm adaptive space reimagined for comfort and care.",
    "body": [
-    "At the pinnacle of the Modern Luxury Series sits the penthouse - the ultimate expression of muted luxury. Designed for the modern-day elite, this space redefines sophistication by embracing the mantra that less is more. Gone are the days when opulence meant excess; today, true luxury lies in restraint, precision, and timeless elegance.",
-    "The design concept blends contemporary finishes with refined furniture and artful accessories. Every surface and texture was chosen to evoke understated grandeur - “gray-ge” walls balancing the coolness of gray and the warmth of beige, complemented by two-tone wood finishes, glossy laminates, and subtle glass details. The palette feels calm yet commanding, clean yet indulgent.",
-    "In the living and dining areas, comfort meets sophistication through deeper, wider seating, lush upholstery, and soft, tactile materials. Linear accents and modern silhouettes bring a sense of structure and quiet confidence - a reflection of the new generation’s taste for refined minimalism.",
-    "The bedroom continues this language of modern luxury. A full-height headboard anchors the space, paired with a deconstructed abstract artwork framed in brushed gold aluminum. Laser-cut bedside panels echo the same metallic tone, adding texture and light play. Subtle wall textures and a recessed ceiling complete the ambiance - a space that feels composed, layered, and effortlessly elegant.",
-    "This penthouse is more than a home - it’s a statement of contemporary luxury, defined by restraint, refinement, and a new kind of sophistication."
+    "As families evolve, so do their priorities. Originally designed as an office, this space was thoughtfully converted into an elderly-friendly home for the client’s mother. Its ground-floor location made it the perfect candidate for transformation — combining accessibility, safety, and modern functionality.",
+    "A project that highlights how design adapts to life’s changing seasons."
    ],
    "press": [],
-   "cover": "https://static.wixstatic.com/media/a54808_1c6b3a2190564074827475d22bcbae8f~mv2.jpg/v1/fit/w_900,h_900,q_88,enc_avif,quality_auto/a54808_1c6b3a2190564074827475d22bcbae8f~mv2.jpg",
+   "cover": "https://static.wixstatic.com/media/a54808_2e66326542b34fd698bef6de4883ffd4~mv2.jpg/v1/fit/w_900,h_900,q_88,enc_avif,quality_auto/a54808_2e66326542b34fd698bef6de4883ffd4~mv2.jpg",
    "images": [
-    "https://static.wixstatic.com/media/a54808_1c6b3a2190564074827475d22bcbae8f~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_1c6b3a2190564074827475d22bcbae8f~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_67334c9b11df4f32b963386cf3b34bfc~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_67334c9b11df4f32b963386cf3b34bfc~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_ae340dba0a344557b1781142447c8e2e~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_ae340dba0a344557b1781142447c8e2e~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_8a85ca5b0ebf48c7aebfacd67e8ca108~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_8a85ca5b0ebf48c7aebfacd67e8ca108~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_f9ddd7e93c434746ae45914acb0eea98~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_f9ddd7e93c434746ae45914acb0eea98~mv2.jpg"
+    "https://static.wixstatic.com/media/a54808_2e66326542b34fd698bef6de4883ffd4~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_2e66326542b34fd698bef6de4883ffd4~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_68dff77987a541339cc75d2f94b8a83d~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_68dff77987a541339cc75d2f94b8a83d~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_f81812bafa4b4f42983c4315290a7985~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_f81812bafa4b4f42983c4315290a7985~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_66949a0bc47546bbbcef8c8b96605d7b~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_66949a0bc47546bbbcef8c8b96605d7b~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_ab2a1919c2d948399736eeb366f01986~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_ab2a1919c2d948399736eeb366f01986~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_a579672191f34db8958ccaa7a7637672~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_a579672191f34db8958ccaa7a7637672~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_0f7b79391f1c4275a3d2e1858fc0acfd~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_0f7b79391f1c4275a3d2e1858fc0acfd~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_411aa5ddf55b4592929d57fc7a2c9ef6~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_411aa5ddf55b4592929d57fc7a2c9ef6~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_038399234cb94107903bf643d6accfb6~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_038399234cb94107903bf643d6accfb6~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_dc43a2e1eb5f407fb93466a6c08a5bf7~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_dc43a2e1eb5f407fb93466a6c08a5bf7~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_658cf5959c2c412c9fe75f7f28a39af6~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_658cf5959c2c412c9fe75f7f28a39af6~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_5785da3eb6ff4773b756d1e3ac6460a8~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_5785da3eb6ff4773b756d1e3ac6460a8~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_2f310fbe33854f4091bc26c4855b70d1~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_2f310fbe33854f4091bc26c4855b70d1~mv2.jpg"
    ],
-   "featured": true
-  },
-  {
-   "slug": "industrial-filipino-fusion",
-   "title": "Industrial Filipino Fusion",
-   "category": "residential",
-   "size": 90,
-   "tagline": "A 90-sqm, two-bedroom unit designed to celebrate both identity and artistry.",
-   "body": [
-    "This project was particularly close to my heart — a chance to design for a couple from my own LGBTQIA+ community and bring their contrasting styles into perfect harmony. One leaned toward the raw character of industrial design, while the other was deeply rooted in the “Love Local” movement. The challenge? To make both worlds coexist seamlessly without one outshining the other.",
-    "Born during the pandemic, the layout evolved to include a dedicated home office — a safe and stylish workspace for the couple’s new normal. The result is a modern interpretation of Industrial-Filipino Fusion, where metal and concrete meet rattan and native textures, and where every piece reflects a balance of individuality, purpose, and pride."
-   ],
-   "press": [],
-   "cover": "https://static.wixstatic.com/media/a54808_94414e054aa74e3faece7877fb4dcf1b~mv2.jpg/v1/fit/w_900,h_900,q_88,enc_avif,quality_auto/a54808_94414e054aa74e3faece7877fb4dcf1b~mv2.jpg",
-   "images": [
-    "https://static.wixstatic.com/media/a54808_94414e054aa74e3faece7877fb4dcf1b~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_94414e054aa74e3faece7877fb4dcf1b~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_19371f2f48de4928b8fd55f1b9d9d736~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_19371f2f48de4928b8fd55f1b9d9d736~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_a3997bbf48ca4414b76a8019b735d2e0~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_a3997bbf48ca4414b76a8019b735d2e0~mv2.png",
-    "https://static.wixstatic.com/media/a54808_aa609dc897c94d67ba4d0bfea376f123~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_aa609dc897c94d67ba4d0bfea376f123~mv2.png",
-    "https://static.wixstatic.com/media/a54808_b794795c9a314236b44865d7055a3b7e~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_b794795c9a314236b44865d7055a3b7e~mv2.png",
-    "https://static.wixstatic.com/media/a54808_a52f72615a154605a29fead2d1f392b1~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_a52f72615a154605a29fead2d1f392b1~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_ac3740b761ed47ab9d609f72d460d33e~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_ac3740b761ed47ab9d609f72d460d33e~mv2.png",
-    "https://static.wixstatic.com/media/a54808_093a308a3f684005a7a248a7368b592f~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_093a308a3f684005a7a248a7368b592f~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_88e0bd25b87c4914b7e4705bb9db3b18~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_88e0bd25b87c4914b7e4705bb9db3b18~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_f425ade43e414136a2c9486fd09e5276~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_f425ade43e414136a2c9486fd09e5276~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_b63d78e4a0ea4e3f83d05c63627e692b~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_b63d78e4a0ea4e3f83d05c63627e692b~mv2.png",
-    "https://static.wixstatic.com/media/a54808_3d9f3957db804be2af3198d49a926fc6~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_3d9f3957db804be2af3198d49a926fc6~mv2.png",
-    "https://static.wixstatic.com/media/a54808_1ecfbbf6d5244b4baa0b9f50594c9aa3~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_1ecfbbf6d5244b4baa0b9f50594c9aa3~mv2.png",
-    "https://static.wixstatic.com/media/a54808_cabfd5eb05574aed8ef47df85713c83f~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_cabfd5eb05574aed8ef47df85713c83f~mv2.png"
-   ],
-   "featured": true
-  },
-  {
-   "slug": "barkhaus",
-   "title": "Barkhaus",
-   "category": "commercial",
-   "size": null,
-   "tagline": "Pet grooming salon and retail.",
-   "body": [
-    "A reception wrapped in terrazzo over a fluted-wood base, arched display niches lit by globe pendants, and grooming stations set behind framed glass — the space drawn in this site’s opening sequence.",
-    "Images are renders from the design model."
-   ],
-   "press": [],
-   "placeholderCopy": true,
-   "cover": "./assets/hero/finished.webp",
-   "images": [
-    "./assets/hero/finished.webp",
-    "./assets/projects/barkhaus/arches.webp",
-    "./assets/projects/barkhaus/grooming.webp",
-    "./assets/projects/barkhaus/shelving.webp",
-    "./assets/projects/barkhaus/wash-arch.webp"
-   ],
-   "featured": true
-  },
-  {
-   "slug": "dimsum-dimsum",
-   "title": "Dimsum Dimsum",
-   "category": "commercial",
-   "size": 72,
-   "tagline": "A 72-sqm commercial space brought to life with style and spontaneity.",
-   "body": [
-    "Sometimes, the best projects come when you least expect them. This one was referred to me by a fellow judge from an event we both joined — proof that opportunities can truly come from anywhere.",
-    "The clients wanted to expand their dim sum business and elevate their store’s look, blending modern and industrial design with a touch of their brand identity as accent. The result? A bold yet balanced space that feels both polished and authentic — perfectly capturing their brand’s energy and flavor.",
-    "A spontaneous collaboration turned stylish success."
-   ],
-   "press": [],
-   "cover": "https://static.wixstatic.com/media/a54808_e0cd2cde09de45a5a056587bade35e45~mv2.jpg/v1/fit/w_900,h_900,q_88,enc_avif,quality_auto/a54808_e0cd2cde09de45a5a056587bade35e45~mv2.jpg",
-   "images": [
-    "https://static.wixstatic.com/media/a54808_e0cd2cde09de45a5a056587bade35e45~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_e0cd2cde09de45a5a056587bade35e45~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_ecd574259d97418eb204b0ee27a4fe99~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_ecd574259d97418eb204b0ee27a4fe99~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_030c915e4d174328b33ab29c69901f85~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_030c915e4d174328b33ab29c69901f85~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_3d54456dec644390af1e1872067c3e5c~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_3d54456dec644390af1e1872067c3e5c~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_2257d5f05e504686808aae72f6167c91~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_2257d5f05e504686808aae72f6167c91~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_7257aebe794945bab84cf117c11b16c4~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_7257aebe794945bab84cf117c11b16c4~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_5dcb5ed5b8f844fda1d082b03df2453b~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_5dcb5ed5b8f844fda1d082b03df2453b~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_e06449b794ae4a4a867ccb5189202a63~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_e06449b794ae4a4a867ccb5189202a63~mv2.png"
-   ],
-   "featured": true
-  },
-  {
-   "slug": "studio-mancave",
-   "title": "Studio Mancave",
-   "category": "residential",
-   "size": 26,
-   "tagline": "A 26-sqm studio unit transformed into a modern-day mancave.",
-   "body": [
-    "For many young professionals, success isn’t just measured in milestones — it’s reflected in the spaces they create for themselves. This project, nestled within The Viceroy McKinley in Bonifacio Global City, embodies that dream: a studio that merges work, life, and style in one compact yet powerful statement.",
-    "Designed amid the pandemic, the layout adapts to the client’s evolving lifestyle — a space where he can both live and conduct business with ease. The design blends modern, rustic, and industrial influences, creating a masculine yet refined atmosphere that feels both grounded and aspirational.",
-    "A true bachelor’s haven in the sky — where grit meets sophistication."
-   ],
-   "press": [
-    "RealLiving"
-   ],
-   "cover": "https://static.wixstatic.com/media/a54808_b4aaac0c020a40eaad4d69281775c636~mv2.jpg/v1/fit/w_900,h_900,q_88,enc_avif,quality_auto/a54808_b4aaac0c020a40eaad4d69281775c636~mv2.jpg",
-   "images": [
-    "https://static.wixstatic.com/media/a54808_b4aaac0c020a40eaad4d69281775c636~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_b4aaac0c020a40eaad4d69281775c636~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_ffb623d7d5d741b69422c0e02433244f~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_ffb623d7d5d741b69422c0e02433244f~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_83d1183aac2a4e1da1172ba1bf02306a~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_83d1183aac2a4e1da1172ba1bf02306a~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_1b003d8151f1449e9ff2a133bc6ac159~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_1b003d8151f1449e9ff2a133bc6ac159~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_ade08b93df99433d840b2ed6920ea923~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_ade08b93df99433d840b2ed6920ea923~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_57aff25c45774545b61cb64a2d308b07~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_57aff25c45774545b61cb64a2d308b07~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_2bd03c6872d84726beee66f531c536c1~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_2bd03c6872d84726beee66f531c536c1~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_6af3fc28c2d24d9aa70162a33c6b7e19~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_6af3fc28c2d24d9aa70162a33c6b7e19~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_98ce07a8a3e74871aa8043664731dfff~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_98ce07a8a3e74871aa8043664731dfff~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_42623c1f96504e10b3c576462d89fde5~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_42623c1f96504e10b3c576462d89fde5~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_14d4303e25d64abe9d9d26cdd26fcc3f~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_14d4303e25d64abe9d9d26cdd26fcc3f~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_f8a9da13fdd24e24a983f0830ebd530b~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_f8a9da13fdd24e24a983f0830ebd530b~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_bc07713cbe4e484286ed33b926df88ea~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_bc07713cbe4e484286ed33b926df88ea~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_5efb8785a9994d8da6ee914e0a7c13f5~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_5efb8785a9994d8da6ee914e0a7c13f5~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_9d1aaeeb832b4484939bcfa1349c77fb~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_9d1aaeeb832b4484939bcfa1349c77fb~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_20a6792974da4af2b654f941dd4c784c~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_20a6792974da4af2b654f941dd4c784c~mv2.jpg"
-   ],
-   "featured": true
-  },
-  {
-   "slug": "ayala-alabang-renovation",
-   "title": "Ayala Alabang Renovation",
-   "category": "residential",
-   "size": null,
-   "tagline": "Breathing new life into a timeless masterpiece.",
-   "body": [
-    "It’s always both an honor and a challenge to take on a project originally designed by an iconic architect. This home—older than I am—now finds itself in my hands, ready to be reimagined for the world we live in today. A delicate balance of preservation and reinvention, this project pays homage to its legacy while ushering in a new era of design."
-   ],
-   "press": [],
-   "cover": "https://static.wixstatic.com/media/a54808_83a00c1763e94d06a123010de5bf1ec9~mv2.jpg/v1/fit/w_900,h_900,q_88,enc_avif,quality_auto/a54808_83a00c1763e94d06a123010de5bf1ec9~mv2.jpg",
-   "images": [
-    "https://static.wixstatic.com/media/a54808_83a00c1763e94d06a123010de5bf1ec9~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_83a00c1763e94d06a123010de5bf1ec9~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_3aaf94b4f91f474f99faedd8831fb39a~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_3aaf94b4f91f474f99faedd8831fb39a~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_cd69858ee23c47d091e3b34a8a1045dd~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_cd69858ee23c47d091e3b34a8a1045dd~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_8b666352e065413cbdcc034a14e4d8ac~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_8b666352e065413cbdcc034a14e4d8ac~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_a2dbfab485a14aa89e08c991a4c6ada3~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_a2dbfab485a14aa89e08c991a4c6ada3~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_87e5b0b904744e21877e945f7fa54db1~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_87e5b0b904744e21877e945f7fa54db1~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_143a42ba0bf6426ba54063340393e7a8~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_143a42ba0bf6426ba54063340393e7a8~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_ee53f19cf01b4da6ad5aec2885883ea4~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_ee53f19cf01b4da6ad5aec2885883ea4~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_d745d6d6acc4450a88c190d436aa7965~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_d745d6d6acc4450a88c190d436aa7965~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_298a2b4dddcd43aab725709ccf75368e~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_298a2b4dddcd43aab725709ccf75368e~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_dc2c8f9d0fe74e02b890fe3d827e0356~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_dc2c8f9d0fe74e02b890fe3d827e0356~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_5682f4f0c8094fdabd93b648443a31cb~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_5682f4f0c8094fdabd93b648443a31cb~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_3ef9ef9548b84c1196533008c9961d40~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_3ef9ef9548b84c1196533008c9961d40~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_277030ce953444728611519a2f2fed75~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_277030ce953444728611519a2f2fed75~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_9f23575bef414d5683c1f81a32e24b77~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_9f23575bef414d5683c1f81a32e24b77~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_d6152468912d42bbbc33363d834fbb4c~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_d6152468912d42bbbc33363d834fbb4c~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_0271de2851564148960adda2b16123ad~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_0271de2851564148960adda2b16123ad~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_d1adbe09cc2348e2b77e81cc0dcf7892~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_d1adbe09cc2348e2b77e81cc0dcf7892~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_007a0607368a41b0938ed97dea8b121d~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_007a0607368a41b0938ed97dea8b121d~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_aab38176d86343719ed27aa905394883~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_aab38176d86343719ed27aa905394883~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_8743e2ba17b44d6da5c5330caa9ae611~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_8743e2ba17b44d6da5c5330caa9ae611~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_2c2ebdb9669d41d5b763c6a72bea4c7a~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_2c2ebdb9669d41d5b763c6a72bea4c7a~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_5b9614ca9dcf4e23a8d36dc0774c21b9~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_5b9614ca9dcf4e23a8d36dc0774c21b9~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_e0b26c5a99a5448fa9f48507a0e3c3f5~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_e0b26c5a99a5448fa9f48507a0e3c3f5~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_aaadb709e8dc437ca7491b222d5bdac5~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_aaadb709e8dc437ca7491b222d5bdac5~mv2.jpg"
-   ],
-   "featured": true
-  },
-  {
-   "slug": "luxury-condominium-amenities",
-   "title": "Luxury Condominium Amenities",
-   "category": "commercial",
-   "size": null,
-   "tagline": null,
-   "body": [
-    "Still rising amid one of Metro Manila’s most dynamic business districts, this upcoming development is set to be the first of its kind — a bold statement of modern luxury and urban sophistication.",
-    "Designed to captivate the Class A and up market, every element of this project has been carefully envisioned to impress even the most discerning eye. From premium finishes to thoughtfully curated fixtures, the design celebrates refined taste and quiet opulence — a true benchmark of contemporary elegance in city living.",
-    "Currently in its construction phase, this condominium stands as one of the projects I am most proud to have been part of from the conceptual stage. It’s a creation that reflects both ambition and artistry — a project that promises to make its mark once completed.",
-    "The countdown continues — tick tock, tick tock."
-   ],
-   "press": [],
-   "cover": "https://static.wixstatic.com/media/a54808_78433f00cbaf4b0fa30e81947930030e~mv2.jpg/v1/fit/w_900,h_900,q_88,enc_avif,quality_auto/a54808_78433f00cbaf4b0fa30e81947930030e~mv2.jpg",
-   "images": [
-    "https://static.wixstatic.com/media/a54808_78433f00cbaf4b0fa30e81947930030e~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_78433f00cbaf4b0fa30e81947930030e~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_df40dd6a6e8442098be8cb4747267601~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_df40dd6a6e8442098be8cb4747267601~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_e905ebef0c854132903ac2842e291e01~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_e905ebef0c854132903ac2842e291e01~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_bad918c5b9e3498b9606fc3126db5fc3~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_bad918c5b9e3498b9606fc3126db5fc3~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_ce2901450d974167b5b9b1339ccc54ce~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_ce2901450d974167b5b9b1339ccc54ce~mv2.jpg"
-   ],
-   "featured": false
-  },
-  {
-   "slug": "village-amenities",
-   "title": "Village Amenities",
-   "category": "commercial",
-   "size": null,
-   "tagline": null,
-   "body": [
-    "This project pushed me in all the right ways. I’ve always been rooted in residential design, so stepping into a clubhouse with soaring ceilings and walls of glass was both exciting and intimidating. The shell itself demanded creativity — it wasn’t just about making it look good, but making it work.",
-    "I approached it the way I always do: multiple minds, one vision. We blended modern and Scandinavian sensibilities to bring warmth, function, and personality into the vast space. The floating ceiling mounted on the trusses became the hero — solving both lighting and shading issues while serving as a defining design feature.",
-    "From there, everything fell into rhythm. Wood-finished beams, stone-wrapped counters, and lounge-style furniture softened the architecture and brought a casual, nature-inspired feel. Once the lobby came together, the rest of the clubhouse followed effortlessly.",
-    "What started as one of my most challenging projects turned into one of the most fulfilling - proof that stepping out of your comfort zone can lead to something truly remarkable."
-   ],
-   "press": [],
-   "cover": "https://static.wixstatic.com/media/a54808_9b88b36ca56e44e48eab05223177b608~mv2.jpg/v1/fit/w_900,h_900,q_88,enc_avif,quality_auto/a54808_9b88b36ca56e44e48eab05223177b608~mv2.jpg",
-   "images": [
-    "https://static.wixstatic.com/media/a54808_9b88b36ca56e44e48eab05223177b608~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_9b88b36ca56e44e48eab05223177b608~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_5dd8ac1e38814c0aa90d6d26a970ebb8~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_5dd8ac1e38814c0aa90d6d26a970ebb8~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_825bb2072cb447eb8862660207db85c4~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_825bb2072cb447eb8862660207db85c4~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_9b6942ef5c014681bd5f1503e3ac76dd~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_9b6942ef5c014681bd5f1503e3ac76dd~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_8850fa69b3fa4d9b93c1cc7ce0a7e680~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_8850fa69b3fa4d9b93c1cc7ce0a7e680~mv2.jpg"
-   ],
-   "featured": false
+   "featured": true,
+   "listed": true
   },
   {
    "slug": "bachelors-pad",
@@ -382,7 +194,182 @@
     "https://static.wixstatic.com/media/a54808_c6aa9bd3c3114374b0cefa2d2737e031~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_c6aa9bd3c3114374b0cefa2d2737e031~mv2.jpg",
     "https://static.wixstatic.com/media/a54808_4570737c8f7f4130aa3fb8297cbd13cc~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_4570737c8f7f4130aa3fb8297cbd13cc~mv2.jpg"
    ],
-   "featured": false
+   "featured": true,
+   "listed": true
+  },
+  {
+   "slug": "village-amenities",
+   "title": "Village Amenities",
+   "category": "commercial",
+   "size": null,
+   "tagline": null,
+   "body": [
+    "This project pushed me in all the right ways. I’ve always been rooted in residential design, so stepping into a clubhouse with soaring ceilings and walls of glass was both exciting and intimidating. The shell itself demanded creativity — it wasn’t just about making it look good, but making it work.",
+    "I approached it the way I always do: multiple minds, one vision. We blended modern and Scandinavian sensibilities to bring warmth, function, and personality into the vast space. The floating ceiling mounted on the trusses became the hero — solving both lighting and shading issues while serving as a defining design feature.",
+    "From there, everything fell into rhythm. Wood-finished beams, stone-wrapped counters, and lounge-style furniture softened the architecture and brought a casual, nature-inspired feel. Once the lobby came together, the rest of the clubhouse followed effortlessly.",
+    "What started as one of my most challenging projects turned into one of the most fulfilling - proof that stepping out of your comfort zone can lead to something truly remarkable."
+   ],
+   "press": [],
+   "cover": "https://static.wixstatic.com/media/a54808_9b88b36ca56e44e48eab05223177b608~mv2.jpg/v1/fit/w_900,h_900,q_88,enc_avif,quality_auto/a54808_9b88b36ca56e44e48eab05223177b608~mv2.jpg",
+   "images": [
+    "https://static.wixstatic.com/media/a54808_9b88b36ca56e44e48eab05223177b608~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_9b88b36ca56e44e48eab05223177b608~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_5dd8ac1e38814c0aa90d6d26a970ebb8~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_5dd8ac1e38814c0aa90d6d26a970ebb8~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_825bb2072cb447eb8862660207db85c4~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_825bb2072cb447eb8862660207db85c4~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_9b6942ef5c014681bd5f1503e3ac76dd~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_9b6942ef5c014681bd5f1503e3ac76dd~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_8850fa69b3fa4d9b93c1cc7ce0a7e680~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_8850fa69b3fa4d9b93c1cc7ce0a7e680~mv2.jpg"
+   ],
+   "featured": true,
+   "listed": true
+  },
+  {
+   "slug": "dimsum-dimsum",
+   "title": "Dimsum Dimsum",
+   "category": "commercial",
+   "size": 72,
+   "tagline": "A 72-sqm commercial space brought to life with style and spontaneity.",
+   "body": [
+    "Sometimes, the best projects come when you least expect them. This one was referred to me by a fellow judge from an event we both joined — proof that opportunities can truly come from anywhere.",
+    "The clients wanted to expand their dim sum business and elevate their store’s look, blending modern and industrial design with a touch of their brand identity as accent. The result? A bold yet balanced space that feels both polished and authentic — perfectly capturing their brand’s energy and flavor.",
+    "A spontaneous collaboration turned stylish success."
+   ],
+   "press": [],
+   "cover": "https://static.wixstatic.com/media/a54808_e0cd2cde09de45a5a056587bade35e45~mv2.jpg/v1/fit/w_900,h_900,q_88,enc_avif,quality_auto/a54808_e0cd2cde09de45a5a056587bade35e45~mv2.jpg",
+   "images": [
+    "https://static.wixstatic.com/media/a54808_e0cd2cde09de45a5a056587bade35e45~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_e0cd2cde09de45a5a056587bade35e45~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_ecd574259d97418eb204b0ee27a4fe99~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_ecd574259d97418eb204b0ee27a4fe99~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_030c915e4d174328b33ab29c69901f85~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_030c915e4d174328b33ab29c69901f85~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_3d54456dec644390af1e1872067c3e5c~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_3d54456dec644390af1e1872067c3e5c~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_2257d5f05e504686808aae72f6167c91~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_2257d5f05e504686808aae72f6167c91~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_7257aebe794945bab84cf117c11b16c4~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_7257aebe794945bab84cf117c11b16c4~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_5dcb5ed5b8f844fda1d082b03df2453b~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_5dcb5ed5b8f844fda1d082b03df2453b~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_e06449b794ae4a4a867ccb5189202a63~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_e06449b794ae4a4a867ccb5189202a63~mv2.png"
+   ],
+   "featured": true,
+   "listed": true
+  },
+  {
+   "slug": "studio-mancave",
+   "title": "Studio Mancave",
+   "category": "residential",
+   "size": 26,
+   "tagline": "A 26-sqm studio unit transformed into a modern-day mancave.",
+   "body": [
+    "For many young professionals, success isn’t just measured in milestones — it’s reflected in the spaces they create for themselves. This project, nestled within The Viceroy McKinley in Bonifacio Global City, embodies that dream: a studio that merges work, life, and style in one compact yet powerful statement.",
+    "Designed amid the pandemic, the layout adapts to the client’s evolving lifestyle — a space where he can both live and conduct business with ease. The design blends modern, rustic, and industrial influences, creating a masculine yet refined atmosphere that feels both grounded and aspirational.",
+    "A true bachelor’s haven in the sky — where grit meets sophistication."
+   ],
+   "press": [
+    "RealLiving"
+   ],
+   "cover": "https://static.wixstatic.com/media/a54808_b4aaac0c020a40eaad4d69281775c636~mv2.jpg/v1/fit/w_900,h_900,q_88,enc_avif,quality_auto/a54808_b4aaac0c020a40eaad4d69281775c636~mv2.jpg",
+   "images": [
+    "https://static.wixstatic.com/media/a54808_b4aaac0c020a40eaad4d69281775c636~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_b4aaac0c020a40eaad4d69281775c636~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_ffb623d7d5d741b69422c0e02433244f~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_ffb623d7d5d741b69422c0e02433244f~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_83d1183aac2a4e1da1172ba1bf02306a~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_83d1183aac2a4e1da1172ba1bf02306a~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_1b003d8151f1449e9ff2a133bc6ac159~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_1b003d8151f1449e9ff2a133bc6ac159~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_ade08b93df99433d840b2ed6920ea923~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_ade08b93df99433d840b2ed6920ea923~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_57aff25c45774545b61cb64a2d308b07~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_57aff25c45774545b61cb64a2d308b07~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_2bd03c6872d84726beee66f531c536c1~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_2bd03c6872d84726beee66f531c536c1~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_6af3fc28c2d24d9aa70162a33c6b7e19~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_6af3fc28c2d24d9aa70162a33c6b7e19~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_98ce07a8a3e74871aa8043664731dfff~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_98ce07a8a3e74871aa8043664731dfff~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_42623c1f96504e10b3c576462d89fde5~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_42623c1f96504e10b3c576462d89fde5~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_14d4303e25d64abe9d9d26cdd26fcc3f~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_14d4303e25d64abe9d9d26cdd26fcc3f~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_f8a9da13fdd24e24a983f0830ebd530b~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_f8a9da13fdd24e24a983f0830ebd530b~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_bc07713cbe4e484286ed33b926df88ea~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_bc07713cbe4e484286ed33b926df88ea~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_5efb8785a9994d8da6ee914e0a7c13f5~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_5efb8785a9994d8da6ee914e0a7c13f5~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_9d1aaeeb832b4484939bcfa1349c77fb~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_9d1aaeeb832b4484939bcfa1349c77fb~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_20a6792974da4af2b654f941dd4c784c~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_20a6792974da4af2b654f941dd4c784c~mv2.jpg"
+   ],
+   "featured": true,
+   "listed": true
+  },
+  {
+   "slug": "ayala-alabang-renovation",
+   "title": "Ayala Alabang Renovation",
+   "category": "residential",
+   "size": null,
+   "tagline": "Breathing new life into a timeless masterpiece.",
+   "body": [
+    "It’s always both an honor and a challenge to take on a project originally designed by an iconic architect. This home—older than I am—now finds itself in my hands, ready to be reimagined for the world we live in today. A delicate balance of preservation and reinvention, this project pays homage to its legacy while ushering in a new era of design."
+   ],
+   "press": [],
+   "cover": "https://static.wixstatic.com/media/a54808_83a00c1763e94d06a123010de5bf1ec9~mv2.jpg/v1/fit/w_900,h_900,q_88,enc_avif,quality_auto/a54808_83a00c1763e94d06a123010de5bf1ec9~mv2.jpg",
+   "images": [
+    "https://static.wixstatic.com/media/a54808_83a00c1763e94d06a123010de5bf1ec9~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_83a00c1763e94d06a123010de5bf1ec9~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_3aaf94b4f91f474f99faedd8831fb39a~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_3aaf94b4f91f474f99faedd8831fb39a~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_cd69858ee23c47d091e3b34a8a1045dd~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_cd69858ee23c47d091e3b34a8a1045dd~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_8b666352e065413cbdcc034a14e4d8ac~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_8b666352e065413cbdcc034a14e4d8ac~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_a2dbfab485a14aa89e08c991a4c6ada3~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_a2dbfab485a14aa89e08c991a4c6ada3~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_87e5b0b904744e21877e945f7fa54db1~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_87e5b0b904744e21877e945f7fa54db1~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_143a42ba0bf6426ba54063340393e7a8~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_143a42ba0bf6426ba54063340393e7a8~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_ee53f19cf01b4da6ad5aec2885883ea4~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_ee53f19cf01b4da6ad5aec2885883ea4~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_d745d6d6acc4450a88c190d436aa7965~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_d745d6d6acc4450a88c190d436aa7965~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_298a2b4dddcd43aab725709ccf75368e~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_298a2b4dddcd43aab725709ccf75368e~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_dc2c8f9d0fe74e02b890fe3d827e0356~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_dc2c8f9d0fe74e02b890fe3d827e0356~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_5682f4f0c8094fdabd93b648443a31cb~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_5682f4f0c8094fdabd93b648443a31cb~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_3ef9ef9548b84c1196533008c9961d40~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_3ef9ef9548b84c1196533008c9961d40~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_277030ce953444728611519a2f2fed75~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_277030ce953444728611519a2f2fed75~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_9f23575bef414d5683c1f81a32e24b77~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_9f23575bef414d5683c1f81a32e24b77~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_d6152468912d42bbbc33363d834fbb4c~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_d6152468912d42bbbc33363d834fbb4c~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_0271de2851564148960adda2b16123ad~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_0271de2851564148960adda2b16123ad~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_d1adbe09cc2348e2b77e81cc0dcf7892~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_d1adbe09cc2348e2b77e81cc0dcf7892~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_007a0607368a41b0938ed97dea8b121d~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_007a0607368a41b0938ed97dea8b121d~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_aab38176d86343719ed27aa905394883~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_aab38176d86343719ed27aa905394883~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_8743e2ba17b44d6da5c5330caa9ae611~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_8743e2ba17b44d6da5c5330caa9ae611~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_2c2ebdb9669d41d5b763c6a72bea4c7a~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_2c2ebdb9669d41d5b763c6a72bea4c7a~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_5b9614ca9dcf4e23a8d36dc0774c21b9~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_5b9614ca9dcf4e23a8d36dc0774c21b9~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_e0b26c5a99a5448fa9f48507a0e3c3f5~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_e0b26c5a99a5448fa9f48507a0e3c3f5~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_aaadb709e8dc437ca7491b222d5bdac5~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_aaadb709e8dc437ca7491b222d5bdac5~mv2.jpg"
+   ],
+   "featured": true,
+   "listed": true
+  },
+  {
+   "slug": "barkhaus",
+   "title": "Barkhaus",
+   "category": "commercial",
+   "size": null,
+   "tagline": "Pet grooming salon and retail.",
+   "body": [
+    "A reception wrapped in terrazzo over a fluted-wood base, arched display niches lit by globe pendants, and grooming stations set behind framed glass — the space drawn in this site’s opening sequence.",
+    "Images are renders from the design model."
+   ],
+   "press": [],
+   "placeholderCopy": true,
+   "cover": "./assets/hero/finished.webp",
+   "images": [
+    "./assets/hero/finished.webp",
+    "./assets/projects/barkhaus/arches.webp",
+    "./assets/projects/barkhaus/grooming.webp",
+    "./assets/projects/barkhaus/shelving.webp",
+    "./assets/projects/barkhaus/wash-arch.webp"
+   ],
+   "featured": false,
+   "listed": false
+  },
+  {
+   "slug": "luxury-condominium-amenities",
+   "title": "Luxury Condominium Amenities",
+   "category": "commercial",
+   "size": null,
+   "tagline": null,
+   "body": [
+    "Still rising amid one of Metro Manila’s most dynamic business districts, this upcoming development is set to be the first of its kind — a bold statement of modern luxury and urban sophistication.",
+    "Designed to captivate the Class A and up market, every element of this project has been carefully envisioned to impress even the most discerning eye. From premium finishes to thoughtfully curated fixtures, the design celebrates refined taste and quiet opulence — a true benchmark of contemporary elegance in city living.",
+    "Currently in its construction phase, this condominium stands as one of the projects I am most proud to have been part of from the conceptual stage. It’s a creation that reflects both ambition and artistry — a project that promises to make its mark once completed.",
+    "The countdown continues — tick tock, tick tock."
+   ],
+   "press": [],
+   "cover": "https://static.wixstatic.com/media/a54808_78433f00cbaf4b0fa30e81947930030e~mv2.jpg/v1/fit/w_900,h_900,q_88,enc_avif,quality_auto/a54808_78433f00cbaf4b0fa30e81947930030e~mv2.jpg",
+   "images": [
+    "https://static.wixstatic.com/media/a54808_78433f00cbaf4b0fa30e81947930030e~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_78433f00cbaf4b0fa30e81947930030e~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_df40dd6a6e8442098be8cb4747267601~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_df40dd6a6e8442098be8cb4747267601~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_e905ebef0c854132903ac2842e291e01~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_e905ebef0c854132903ac2842e291e01~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_bad918c5b9e3498b9606fc3126db5fc3~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_bad918c5b9e3498b9606fc3126db5fc3~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_ce2901450d974167b5b9b1339ccc54ce~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_ce2901450d974167b5b9b1339ccc54ce~mv2.jpg"
+   ],
+   "featured": false,
+   "listed": false
   },
   {
    "slug": "glow-up-loft",
@@ -412,7 +399,39 @@
     "https://static.wixstatic.com/media/a54808_c9066a0fc9d3483090f321377fc9e888~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_c9066a0fc9d3483090f321377fc9e888~mv2.jpg",
     "https://static.wixstatic.com/media/a54808_2d234d82e89c4c65b73b285bb4b89949~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_2d234d82e89c4c65b73b285bb4b89949~mv2.jpg"
    ],
-   "featured": false
+   "featured": false,
+   "listed": true
+  },
+  {
+   "slug": "industrial-filipino-fusion",
+   "title": "Industrial Filipino Fusion",
+   "category": "residential",
+   "size": 90,
+   "tagline": "A 90-sqm, two-bedroom unit designed to celebrate both identity and artistry.",
+   "body": [
+    "This project was particularly close to my heart — a chance to design for a couple from my own LGBTQIA+ community and bring their contrasting styles into perfect harmony. One leaned toward the raw character of industrial design, while the other was deeply rooted in the “Love Local” movement. The challenge? To make both worlds coexist seamlessly without one outshining the other.",
+    "Born during the pandemic, the layout evolved to include a dedicated home office — a safe and stylish workspace for the couple’s new normal. The result is a modern interpretation of Industrial-Filipino Fusion, where metal and concrete meet rattan and native textures, and where every piece reflects a balance of individuality, purpose, and pride."
+   ],
+   "press": [],
+   "cover": "https://static.wixstatic.com/media/a54808_94414e054aa74e3faece7877fb4dcf1b~mv2.jpg/v1/fit/w_900,h_900,q_88,enc_avif,quality_auto/a54808_94414e054aa74e3faece7877fb4dcf1b~mv2.jpg",
+   "images": [
+    "https://static.wixstatic.com/media/a54808_94414e054aa74e3faece7877fb4dcf1b~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_94414e054aa74e3faece7877fb4dcf1b~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_19371f2f48de4928b8fd55f1b9d9d736~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_19371f2f48de4928b8fd55f1b9d9d736~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_a3997bbf48ca4414b76a8019b735d2e0~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_a3997bbf48ca4414b76a8019b735d2e0~mv2.png",
+    "https://static.wixstatic.com/media/a54808_aa609dc897c94d67ba4d0bfea376f123~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_aa609dc897c94d67ba4d0bfea376f123~mv2.png",
+    "https://static.wixstatic.com/media/a54808_b794795c9a314236b44865d7055a3b7e~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_b794795c9a314236b44865d7055a3b7e~mv2.png",
+    "https://static.wixstatic.com/media/a54808_a52f72615a154605a29fead2d1f392b1~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_a52f72615a154605a29fead2d1f392b1~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_ac3740b761ed47ab9d609f72d460d33e~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_ac3740b761ed47ab9d609f72d460d33e~mv2.png",
+    "https://static.wixstatic.com/media/a54808_093a308a3f684005a7a248a7368b592f~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_093a308a3f684005a7a248a7368b592f~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_88e0bd25b87c4914b7e4705bb9db3b18~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_88e0bd25b87c4914b7e4705bb9db3b18~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_f425ade43e414136a2c9486fd09e5276~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_f425ade43e414136a2c9486fd09e5276~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_b63d78e4a0ea4e3f83d05c63627e692b~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_b63d78e4a0ea4e3f83d05c63627e692b~mv2.png",
+    "https://static.wixstatic.com/media/a54808_3d9f3957db804be2af3198d49a926fc6~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_3d9f3957db804be2af3198d49a926fc6~mv2.png",
+    "https://static.wixstatic.com/media/a54808_1ecfbbf6d5244b4baa0b9f50594c9aa3~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_1ecfbbf6d5244b4baa0b9f50594c9aa3~mv2.png",
+    "https://static.wixstatic.com/media/a54808_cabfd5eb05574aed8ef47df85713c83f~mv2.png/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_cabfd5eb05574aed8ef47df85713c83f~mv2.png"
+   ],
+   "featured": false,
+   "listed": false
   },
   {
    "slug": "luxury-one-bedroom",
@@ -434,7 +453,33 @@
     "https://static.wixstatic.com/media/a54808_3967ed2f5ff4466eac033f8316ee8d84~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_3967ed2f5ff4466eac033f8316ee8d84~mv2.jpg",
     "https://static.wixstatic.com/media/a54808_46a7efe5ee444a5a9460a1b3621dbf11~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_46a7efe5ee444a5a9460a1b3621dbf11~mv2.jpg"
    ],
-   "featured": false
+   "featured": false,
+   "listed": false
+  },
+  {
+   "slug": "luxury-penthouse",
+   "title": "Luxury Penthouse",
+   "category": "residential",
+   "size": null,
+   "tagline": null,
+   "body": [
+    "At the pinnacle of the Modern Luxury Series sits the penthouse - the ultimate expression of muted luxury. Designed for the modern-day elite, this space redefines sophistication by embracing the mantra that less is more. Gone are the days when opulence meant excess; today, true luxury lies in restraint, precision, and timeless elegance.",
+    "The design concept blends contemporary finishes with refined furniture and artful accessories. Every surface and texture was chosen to evoke understated grandeur - “gray-ge” walls balancing the coolness of gray and the warmth of beige, complemented by two-tone wood finishes, glossy laminates, and subtle glass details. The palette feels calm yet commanding, clean yet indulgent.",
+    "In the living and dining areas, comfort meets sophistication through deeper, wider seating, lush upholstery, and soft, tactile materials. Linear accents and modern silhouettes bring a sense of structure and quiet confidence - a reflection of the new generation’s taste for refined minimalism.",
+    "The bedroom continues this language of modern luxury. A full-height headboard anchors the space, paired with a deconstructed abstract artwork framed in brushed gold aluminum. Laser-cut bedside panels echo the same metallic tone, adding texture and light play. Subtle wall textures and a recessed ceiling complete the ambiance - a space that feels composed, layered, and effortlessly elegant.",
+    "This penthouse is more than a home - it’s a statement of contemporary luxury, defined by restraint, refinement, and a new kind of sophistication."
+   ],
+   "press": [],
+   "cover": "https://static.wixstatic.com/media/a54808_1c6b3a2190564074827475d22bcbae8f~mv2.jpg/v1/fit/w_900,h_900,q_88,enc_avif,quality_auto/a54808_1c6b3a2190564074827475d22bcbae8f~mv2.jpg",
+   "images": [
+    "https://static.wixstatic.com/media/a54808_1c6b3a2190564074827475d22bcbae8f~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_1c6b3a2190564074827475d22bcbae8f~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_67334c9b11df4f32b963386cf3b34bfc~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_67334c9b11df4f32b963386cf3b34bfc~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_ae340dba0a344557b1781142447c8e2e~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_ae340dba0a344557b1781142447c8e2e~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_8a85ca5b0ebf48c7aebfacd67e8ca108~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_8a85ca5b0ebf48c7aebfacd67e8ca108~mv2.jpg",
+    "https://static.wixstatic.com/media/a54808_f9ddd7e93c434746ae45914acb0eea98~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_f9ddd7e93c434746ae45914acb0eea98~mv2.jpg"
+   ],
+   "featured": false,
+   "listed": false
   },
   {
    "slug": "luxury-studio",
@@ -454,7 +499,8 @@
     "https://static.wixstatic.com/media/a54808_b7f9e6e0118c470e808a6f0b58672bc7~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_b7f9e6e0118c470e808a6f0b58672bc7~mv2.jpg",
     "https://static.wixstatic.com/media/a54808_289b4d943aae47daa40d78d28d7171a7~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_289b4d943aae47daa40d78d28d7171a7~mv2.jpg"
    ],
-   "featured": false
+   "featured": false,
+   "listed": false
   },
   {
    "slug": "luxury-two-bedroom",
@@ -477,7 +523,8 @@
     "https://static.wixstatic.com/media/a54808_84b758a3d4ce422c90a6d0d392ae67b2~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_84b758a3d4ce422c90a6d0d392ae67b2~mv2.jpg",
     "https://static.wixstatic.com/media/a54808_0c68c3c8a74f4b98a2b1451c29794e4e~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_0c68c3c8a74f4b98a2b1451c29794e4e~mv2.jpg"
    ],
-   "featured": false
+   "featured": false,
+   "listed": false
   },
   {
    "slug": "model-house-styling",
@@ -520,7 +567,8 @@
     "https://static.wixstatic.com/media/a54808_72c785ffc23a429ca853d0b1ce4112a6~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_72c785ffc23a429ca853d0b1ce4112a6~mv2.jpg",
     "https://static.wixstatic.com/media/a54808_eb18ed83e5664dd880b8bfaf76bf82cb~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_eb18ed83e5664dd880b8bfaf76bf82cb~mv2.jpg"
    ],
-   "featured": false
+   "featured": false,
+   "listed": true
   },
   {
    "slug": "model-unit",
@@ -557,36 +605,8 @@
     "https://static.wixstatic.com/media/a54808_d28cff5072e246db9049ca4a1b4e259b~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_d28cff5072e246db9049ca4a1b4e259b~mv2.jpg",
     "https://static.wixstatic.com/media/a54808_d242ff05ecf845719ee6b6c8b474e659~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_d242ff05ecf845719ee6b6c8b474e659~mv2.jpg"
    ],
-   "featured": false
-  },
-  {
-   "slug": "office-conversion",
-   "title": "Office Conversion",
-   "category": "residential",
-   "size": 291,
-   "tagline": "A 291-sqm adaptive space reimagined for comfort and care.",
-   "body": [
-    "As families evolve, so do their priorities. Originally designed as an office, this space was thoughtfully converted into an elderly-friendly home for the client’s mother. Its ground-floor location made it the perfect candidate for transformation — combining accessibility, safety, and modern functionality.",
-    "A project that highlights how design adapts to life’s changing seasons."
-   ],
-   "press": [],
-   "cover": "https://static.wixstatic.com/media/a54808_2e66326542b34fd698bef6de4883ffd4~mv2.jpg/v1/fit/w_900,h_900,q_88,enc_avif,quality_auto/a54808_2e66326542b34fd698bef6de4883ffd4~mv2.jpg",
-   "images": [
-    "https://static.wixstatic.com/media/a54808_2e66326542b34fd698bef6de4883ffd4~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_2e66326542b34fd698bef6de4883ffd4~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_68dff77987a541339cc75d2f94b8a83d~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_68dff77987a541339cc75d2f94b8a83d~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_f81812bafa4b4f42983c4315290a7985~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_f81812bafa4b4f42983c4315290a7985~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_66949a0bc47546bbbcef8c8b96605d7b~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_66949a0bc47546bbbcef8c8b96605d7b~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_ab2a1919c2d948399736eeb366f01986~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_ab2a1919c2d948399736eeb366f01986~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_a579672191f34db8958ccaa7a7637672~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_a579672191f34db8958ccaa7a7637672~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_0f7b79391f1c4275a3d2e1858fc0acfd~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_0f7b79391f1c4275a3d2e1858fc0acfd~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_411aa5ddf55b4592929d57fc7a2c9ef6~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_411aa5ddf55b4592929d57fc7a2c9ef6~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_038399234cb94107903bf643d6accfb6~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_038399234cb94107903bf643d6accfb6~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_dc43a2e1eb5f407fb93466a6c08a5bf7~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_dc43a2e1eb5f407fb93466a6c08a5bf7~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_658cf5959c2c412c9fe75f7f28a39af6~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_658cf5959c2c412c9fe75f7f28a39af6~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_5785da3eb6ff4773b756d1e3ac6460a8~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_5785da3eb6ff4773b756d1e3ac6460a8~mv2.jpg",
-    "https://static.wixstatic.com/media/a54808_2f310fbe33854f4091bc26c4855b70d1~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_2f310fbe33854f4091bc26c4855b70d1~mv2.jpg"
-   ],
-   "featured": false
+   "featured": false,
+   "listed": true
   },
   {
    "slug": "scandinavian-duplex",
@@ -606,7 +626,8 @@
     "https://static.wixstatic.com/media/a54808_36b7d4eb834d48faad6e2a77463272c9~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_36b7d4eb834d48faad6e2a77463272c9~mv2.jpg",
     "https://static.wixstatic.com/media/a54808_534017aa2c76423ab1daa16acb3f6e9e~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_534017aa2c76423ab1daa16acb3f6e9e~mv2.jpg"
    ],
-   "featured": false
+   "featured": false,
+   "listed": false
   },
   {
    "slug": "scandinavian-single-detached",
@@ -629,7 +650,136 @@
     "https://static.wixstatic.com/media/a54808_1f896804ed954ee99df76c01c57c5c41~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_1f896804ed954ee99df76c01c57c5c41~mv2.jpg",
     "https://static.wixstatic.com/media/a54808_09b3dcce5f6440c9be2194b4974be615~mv2.jpg/v1/fit/w_1920,h_1920,q_88,enc_avif,quality_auto/a54808_09b3dcce5f6440c9be2194b4974be615~mv2.jpg"
    ],
-   "featured": false
+   "featured": false,
+   "listed": false
+  },
+  {
+   "slug": "8e-east-gallery-place",
+   "title": "8E East Gallery Place",
+   "category": "residential",
+   "size": null,
+   "tagline": null,
+   "body": [
+    "Photos and write-up to follow."
+   ],
+   "press": [],
+   "placeholder": true,
+   "cover": null,
+   "images": [],
+   "featured": false,
+   "listed": true
+  },
+  {
+   "slug": "10b-las-vegas",
+   "title": "10B Las Vegas",
+   "category": "residential",
+   "size": null,
+   "tagline": null,
+   "body": [
+    "Photos and write-up to follow."
+   ],
+   "press": [],
+   "placeholder": true,
+   "cover": null,
+   "images": [],
+   "featured": false,
+   "listed": true
+  },
+  {
+   "slug": "32mn-one-uptown-residence",
+   "title": "32MN One Uptown Residence",
+   "category": "residential",
+   "size": null,
+   "tagline": null,
+   "body": [
+    "Photos and write-up to follow."
+   ],
+   "press": [],
+   "placeholder": true,
+   "cover": null,
+   "images": [],
+   "featured": false,
+   "listed": true
+  },
+  {
+   "slug": "amore-portofino",
+   "title": "Amore Portofino",
+   "category": "residential",
+   "size": null,
+   "tagline": null,
+   "body": [
+    "Photos and write-up to follow."
+   ],
+   "press": [],
+   "placeholder": true,
+   "cover": null,
+   "images": [],
+   "featured": false,
+   "listed": true
+  },
+  {
+   "slug": "barkhaus-estancia",
+   "title": "Barkhaus Estancia",
+   "category": "commercial",
+   "size": null,
+   "tagline": null,
+   "body": [
+    "Photos and write-up to follow."
+   ],
+   "press": [],
+   "placeholder": true,
+   "cover": null,
+   "images": [],
+   "featured": false,
+   "listed": true
+  },
+  {
+   "slug": "bellevue",
+   "title": "Bellevue",
+   "category": "residential",
+   "size": null,
+   "tagline": null,
+   "body": [
+    "Photos and write-up to follow."
+   ],
+   "press": [],
+   "placeholder": true,
+   "cover": null,
+   "images": [],
+   "featured": false,
+   "listed": true
+  },
+  {
+   "slug": "teoville-west",
+   "title": "Teoville West",
+   "category": "residential",
+   "size": null,
+   "tagline": null,
+   "body": [
+    "Photos and write-up to follow."
+   ],
+   "press": [],
+   "placeholder": true,
+   "cover": null,
+   "images": [],
+   "featured": false,
+   "listed": true
+  },
+  {
+   "slug": "townhouse-a",
+   "title": "Townhouse A",
+   "category": "residential",
+   "size": null,
+   "tagline": null,
+   "body": [
+    "Photos and write-up to follow."
+   ],
+   "press": [],
+   "placeholder": true,
+   "cover": null,
+   "images": [],
+   "featured": false,
+   "listed": true
   }
  ]
 }

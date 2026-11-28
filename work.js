@@ -1,14 +1,15 @@
 // Portfolio page: every project, tiled.
-import { loadProjects } from './projects.js?v=05f2a50810';
-import { projectCard, bindFilters } from './grid.js?v=ee39fae337';
-import { initProjectView } from './project-view.js?v=7c473f6016';
+import { loadProjects } from './projects.js?v=74ffd9d598';
+import { projectCard, bindFilters } from './grid.js?v=e44f81ca79';
+import { initProjectView } from './project-view.js?v=a917276c95';
 import { initNav } from './nav.js?v=b1556581c0';
 
 const grid = document.querySelector('#portfolio-grid');
 const count = document.querySelector('#count');
 const say = (n, f) => { count.textContent = `${n} ${f === 'all' ? '' : f + ' '}project${n === 1 ? '' : 's'}`; };
 
-loadProjects().then(({ projects }) => {
+loadProjects().then(({ projects: all }) => {
+  const projects = all.filter(p => p.listed);       // unlisted ones open only from their links
   // Featured work leads, in the home page's order. Tiles take a repeating
   // rhythm of sizes (large, tall, wide) so the wall reads like a contact sheet.
   const RHYTHM = ['big', '', '', 'tall', '', 'wide', '', '', '', 'tall', 'wide', ''];

@@ -1,7 +1,7 @@
 // Full-screen project view. Not a separate page: it opens over whichever page
 // you are on, driven by the URL hash (#project/<slug>), so every project has a
 // shareable link, the back button closes it, and links between projects work.
-import { loadProjects, projectHash, slugFromHash, label, facts } from './projects.js?v=05f2a50810';
+import { loadProjects, projectHash, slugFromHash, label, facts } from './projects.js?v=74ffd9d598';
 
 const reduced = matchMedia('(prefers-reduced-motion: reduce)');
 let view, scroller, lastFocus = null, current = null;
@@ -25,22 +25,25 @@ function build() {
   document.body.append(view);
 }
 
-function render(p, all) {
-  const i = all.findIndex(x => x.slug === p.slug);
-  const next = all[(i + 1) % all.length];
+// `listed` is the public sequence. An unlisted project still opens from its
+// link; it just has no number, and Next leads back into the listed sequence.
+function render(p, listed) {
+  const i = listed.findIndex(x => x.slug === p.slug);
+  const next = listed[(i + 1) % listed.length];
   const [hero, ...rest] = p.images;
+  const position = i >= 0 ? `${String(i + 1).padStart(2, '0')} / ${listed.length} · ` : '';
 
-  const head = el('header', { className: 'pv-hero' },
+  const head = el('header', { className: 'pv-hero' + (hero ? '' : ' is-placeholder') },
     hero ? el('img', { src: hero, alt: `${p.title} — main view`, decoding: 'async' }) : null,
     el('div', { className: 'pv-hero-copy' },
-      el('p', { className: 'eyebrow', textContent: `${String(i + 1).padStart(2, '0')} / ${all.length} · ${label(p)}` }),
+      el('p', { className: 'eyebrow', textContent: position + label(p) }),
       el('h1', { id: 'pv-title', textContent: p.title }),
       p.tagline ? el('p', { className: 'pv-tagline', textContent: p.tagline }) : null));
 
   const meta = el('dl', { className: 'pv-meta' },
     ...facts(p).flatMap((f, k) => [el('dt', { textContent: k ? 'Size' : 'Type' }), el('dd', { textContent: f })]),
     ...(p.press.length ? [el('dt', { textContent: 'Featured' }), ...p.press.map(x => el('dd', { textContent: x }))] : []));
-  const story = el('section', { className: 'pv-story' }, meta,
+  const story = el('section', { className: 'pv-story' + (p.placeholder ? ' is-placeholder' : '') }, meta,
     el('div', { className: 'pv-body' }, ...p.body.map(t => el('p', { textContent: t }))));
 
   // Gallery rhythm: one wide image, then a pair, repeating.
@@ -64,7 +67,7 @@ async function show(slug) {
   if (!view) build();
   const wasOpen = !view.hidden;
   if (!wasOpen) lastFocus = document.activeElement;
-  render(p, projects);
+  render(p, projects.filter(x => x.listed));
   current = slug;
   document.title = `${p.title} — Kenj So`;
   view.getAnimations().forEach(a => a.cancel());   // a closing fade must not finish over us
